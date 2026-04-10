@@ -419,4 +419,19 @@
   "state": "NJ",
   "tags": ["ai", "community"]
 }
+{
+  "slug": "VA-11",
+  "name": "Amrik Majumdar & Atiksh Gupta",
+  "appName": "SAFEY",
+  "description": "A stealth-mode Progressive Web App that helps people experiencing domestic violence access safety tools discreetly, even without internet.",
+  "thumbnail": "sites/VA-11/thumbnail.png",
+  "location": {
+    "lat": 38.8816,
+    "lng": -77.1674,
+    "label": "Chantilly, VA"
+  },
+  "district": "VA-11",
+  "state": "VA",
+  "tags": ["safety", "health", "privacy", "pwa"]
+}
 ]
